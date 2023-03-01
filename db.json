@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "umbrella tree",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apartmenttherapy.com%2Fumbrella-plants-our-best-tips-for-growing-and-care-240514&psig=AOvVaw1ChdKNR5PFyC2BW9XxJCrx&ust=1677778959782000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDphumju_0CFQAAAAAdAAAAABAF",
+      "price": "19.95",
+      "id": 8
+    },
+    {
+      "name": "umbrella tree",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apartmenttherapy.com%2Fumbrella-plants-our-best-tips-for-growing-and-care-240514&psig=AOvVaw1ChdKNR5PFyC2BW9XxJCrx&ust=1677778959782000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDphumju_0CFQAAAAAdAAAAABAF",
+      "price": "19.95",
+      "id": 9
+    },
+    {
+      "name": "umbrella tree",
+      "image": "https://cdn.apartmenttherapy.info/image/upload/v1591496724/gen-workflow/product-listing/umbrellatree.jpg",
+      "price": "21.95",
+      "id": 10
     }
   ]
 }
